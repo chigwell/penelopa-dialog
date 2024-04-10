@@ -1,9 +1,9 @@
-# setup.py
 from setuptools import setup, find_packages
+
 
 setup(
     name='penelopa-dialog',
-    version='0.0.1',
+    version='0.0.2',
     author='Eugene Evstafev',
     author_email='chigwel@gmail.com',
     description='Penelopa Dialog for managing and coordinating tasks',

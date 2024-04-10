@@ -1,6 +1,6 @@
 [![PyPI version](https://badge.fury.io/py/penelopa-dialog.svg)](https://badge.fury.io/py/penelopa-dialog)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://static.pepy.tech/badge/penelopadialog)](https://pepy.tech/project/penelopadialog)
+[![Downloads](https://static.pepy.tech/badge/penelopa-dialog)](https://pepy.tech/project/penelopa-dialog)
 
 # Penelopa Dialog
 
